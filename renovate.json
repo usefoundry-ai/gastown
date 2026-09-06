@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "enabled": false,
+  "description": "Renovate is deliberately DISABLED on this repo. usefoundry-ai/gastown is a GitHub fork of gastownhall/gastown, an upstream project this org does not maintain and does not deploy from; the fork has not been pushed since 2026-01-17. Dependency PRs here would only create divergence from upstream and make future syncs harder, with no build or deployment consuming the result. To re-enable: delete this file, or set enabled to true and derive a real config from the repo's actual manifests (go.mod, npm-package/)."
+}
